@@ -11,5 +11,5 @@
   "relations": {},
   "acls": [],
   "methods": [],
-  "smsPath": "/home/hugo/dev/sms-service"
+  "smsPath": null
 }
