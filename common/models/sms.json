@@ -10,5 +10,6 @@
   "validations": [],
   "relations": {},
   "acls": [],
-  "methods": []
+  "methods": [],
+  "smsPath": "/home/hugo/dev/sms-service"
 }
